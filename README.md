@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keamari/Keysome
+- 👋 Hi, I’m @Keysome
 - 👀 I’m interested in video game development, graphic design, and music production
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on nothing yet...
